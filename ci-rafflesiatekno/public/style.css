@@ -1,0 +1,49 @@
+#wrap{
+	width: 1000px;
+	background-color: rgb(239, 239, 239);
+	margin:-30px auto;
+}
+#header{
+	padding-top: 50;
+	text-align: center;
+	height:150px;
+	background-color: rgb(57, 132, 205);
+}
+
+#menu {
+	margin-top: -15px;
+	background-color: gray;
+	height: 50px;
+}
+#menu ul{
+	padding:15px;
+}
+#menu ul li{
+	display: inline;
+	padding-top: 30px;
+	font-size: 17px;
+	font-family: verdana;
+}
+#menu ul li a{
+	text-decoration: none;
+	padding:10px;
+	font-weight: bold;
+}
+
+#contentwrap{
+	width: 1000px;
+}
+
+#content{
+	width:800px;
+	float:left;
+}
+
+#sidebar{
+	width:200px;
+	float:left;
+}
+
+#footer{
+	background-color: gray;
+}
